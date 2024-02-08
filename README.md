@@ -1,0 +1,3 @@
+# My fist Rust Program
+
+This is my fist line of codes in Rust...
